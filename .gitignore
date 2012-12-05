@@ -11,3 +11,20 @@
 *.lai
 *.la
 *.a
+
+# Visual Studio temp files
+*.sdf
+*.ipch
+*.tlog
+*.log
+*.manifest
+*.pdb
+*.obj
+*.lastbuildstate
+*.exe
+*.suo
+*.user
+*.ilk
+*.rc
+*.res
+*.idb
